@@ -14,8 +14,9 @@ For installing CLIP
 
 HUMEME Datasets (Complete) - Meme Images + Annotations
 
-www:
-www: 
+https://pan.baidu.com/s/1HtQ3UbhM4b6yrTAIvKSKaQ 
+
+code：1823
 
 For initializing dataset and data loader for pytorch
 
