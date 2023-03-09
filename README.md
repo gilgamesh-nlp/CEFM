@@ -22,11 +22,9 @@ For initializing dataset and data loader for pytorch
 
 Load the data-set for training and testing as per the requirement of the run.
 
-Entity features: https://drive.google.com/file/d/1KBltp_97CJIOcrxln9VbDfoKxbVQKcVN/view?usp=sharing
 
-ROI features: https://drive.google.com/file/d/1KRAJcTme4tmbuNXLQ72NTfnQf3x2YQT_/view?usp=sharing
 
-ROI + Entity features: https://drive.google.com/file/d/1xeviXtHE46md3usybEO2FIAcRkBmXZN7/view?usp=sharing
+ROI + Entity features will be uploaded soon!
 
 
 For initializing dataset and data loader for pytorch
