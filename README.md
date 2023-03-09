@@ -27,10 +27,10 @@ Load the data-set for training and testing as per the requirement of the run.
 ROI + Entity features will be uploaded soon!
 
 
-For initializing dataset and data loader for pytorch
 
-Load the data-set for training and testing as per the requirement of the run.
+
 Experimental setting
+
 Configurations for the binary/multi-class setting (training/testing/evaluation) has to be considered as per the requirement, code blocks for which are provided and suitably commented out.
 
 
